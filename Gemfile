@@ -26,7 +26,7 @@ gem "puma", "~> 5.0"
 # gem "browserify-rail"
 gem 'graphql'
 gem "graphql-ruby"
-gem "graphql-relay-ruby"
+# gem "graphql-relay-ruby"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
