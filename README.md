@@ -1,24 +1,5 @@
-# README
+Flex hire screening assesment for the webhooks part implemented in Ruby on Rails with the api scaffold.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Logic to add a new webhook in Flexhire was implemented as well as the logic to receive messages in a webhook enpoint
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Finally a sockets implementation in order to update a frontend when new information comes from the webhooks was pointed out.
